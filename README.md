@@ -39,3 +39,6 @@ Bạn sẽ học cách sử dụng các thành phần Swing cơ bản và nâng 
 
 ---
 
+<img width="306" height="464" alt="image" src="https://github.com/user-attachments/assets/542322f0-58de-4750-b094-fdf7e4404f4a" />
+
+
