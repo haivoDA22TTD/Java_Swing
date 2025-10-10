@@ -35,7 +35,7 @@ Bạn sẽ học cách sử dụng các thành phần Swing cơ bản và nâng 
 ## ⚙️ Yêu cầu
 - Java JDK 8 hoặc cao hơn  
 - IDE hỗ trợ Java (IntelliJ IDEA, Eclipse, NetBeans)  
-- Kiến thức Java cơ bản (class, method, biến)
+- Kiến thức Java cơ bản (class, method, thuộc tính)
 
 ---
 
